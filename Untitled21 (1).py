@@ -17,7 +17,7 @@ import streamlit as st
 
 
 # Load the dataset
-data = pd.read_csv("C:/Users/vishu/Desktop/GT Task/Credit raing.csv")
+data = pd.read_csv("credit_rating.csv")
 
 
 # In[5]:
